@@ -26,4 +26,4 @@ this point.
 The return value of each function is used to identify error conditions.
 Each function will return 0 under normal operation and will return
 −1 if an error occurs. A testing harness is provided in the source code
-download to test your implementation of the barrier.
+download to test your implementation of the barrier.!
